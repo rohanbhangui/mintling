@@ -2316,14 +2316,14 @@
 
 @font-face {
   font-family: "Montserrat";
-  src: url("/font/MontserratBold/MontserratBold.eot");
-  src: url("/font/MontserratBold/MontserratBold.eot?#iefix") format("embedded-opentype"), url("/font/MontserratBold/MontserratBold.woff") format("woff"), url("/font/MontserratBold/MontserratBold.ttf") format("truetype"), url("/font/MontserratBold/MontserratBold.svg#MontserratBold") format("svg");
+  src: url("../font/MontserratBold/MontserratBold.eot");
+  src: url("../font/MontserratBold/MontserratBold.eot?#iefix") format("embedded-opentype"), url("../font/MontserratBold/MontserratBold.woff") format("woff"), url("../font/MontserratBold/MontserratBold.ttf") format("truetype"), url("../font/MontserratBold/MontserratBold.svg#MontserratBold") format("svg");
   font-weight: 700;
   font-style: normal; }
 @font-face {
   font-family: "Montserrat";
-  src: url("/font/MontserratRegular/MontserratRegular.eot");
-  src: url("/font/MontserratRegular/MontserratRegular.eot?#iefix") format("embedded-opentype"), url("/font/MontserratRegular/MontserratRegular.woff") format("woff"), url("/font/MontserratRegular/MontserratRegular.ttf") format("truetype"), url("/font/MontserratRegular/MontserratRegular.svg#MontserratRegular") format("svg");
+  src: url("../font/MontserratRegular/MontserratRegular.eot");
+  src: url("../font/MontserratRegular/MontserratRegular.eot?#iefix") format("embedded-opentype"), url("../font/MontserratRegular/MontserratRegular.woff") format("woff"), url("../font/MontserratRegular/MontserratRegular.ttf") format("truetype"), url("../font/MontserratRegular/MontserratRegular.svg#MontserratRegular") format("svg");
   font-weight: normal;
   font-style: normal; }
 /* line 46, ../scss/index.scss */
